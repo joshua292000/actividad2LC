@@ -14610,6 +14610,6 @@
 		<lc:Y>6</lc:Y>
 		<lc:Width>70</lc:Width>
 		<lc:Height>4</lc:Height>
-		<lc:Note>&lt;FlowDocument PagePadding="5,0,5,0" AllowDrop="True" NumberSubstitution.CultureSource="User" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;&lt;Paragraph&gt;&lt;Run FontSize="48" xml:lang="es-mx"&gt;Esto es un comentario de git&lt;/Run&gt;&lt;Run FontSize="48" xml:lang="es-es" xml:space="preserve"&gt; CAMBIAR COMENTARIO&lt;/Run&gt;&lt;/Paragraph&gt;&lt;/FlowDocument&gt;</lc:Note>
+		<lc:Note>&lt;FlowDocument PagePadding="5,0,5,0" AllowDrop="True" NumberSubstitution.CultureSource="User" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;&lt;Paragraph&gt;&lt;Run FontSize="48" xml:lang="es-mx"&gt;Esto es un comentario de git&lt;/Run&gt;&lt;/Paragraph&gt;&lt;/FlowDocument&gt;</lc:Note>
 	</lc:TextNote>
 </lc:CircuitProject>
